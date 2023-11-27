@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Alertask_v2_0</string>
+
+    <string name="str_btnbuscar">Buscar Tarea</string>
+    <string name="str_btnregistrar">Registrar Tarea</string>
+    <string name="str_btnlistar">Listar Tarea</string>
+
+    <string name="str_titulo">Titulo</string>
+    <string name="str_descripcion">Descripcion</string>
+    <string name="str_fecha">Fecha</string>
+
+    <string name="str_bienvenido">Bienvenidos</string>
+    <string name="str_descripcion_imagen">Todo</string>
+    <string name="str_listar_tareas">Listado de Tareas</string>
+    <string name="str_gestion_tareas">Gestion de Tareas</string>
+    <string name="str_buscar_tarea">Buscar tarea por titulo</string>
+    <string name="str_digite_titulo">Digite el Titulo a buscar</string>
+    <string name="str_estado">Estado</string>
+
+    <string name="str_btnborrar">Eliminar</string>
+    <string name="str_btnguardar">Guardar</string>
+    <string name="str_btnactualizar">Actualizar</string>
+
+
+
+</resources>
